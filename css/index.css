@@ -1,0 +1,16 @@
+main {
+  margin: 0px auto;
+  max-width: 1000px;
+  padding-right: 310px;
+}
+.navigation-list{
+  overflow: auto;
+  zoom: 1;
+}
+img{
+  float:right;
+  margin:0 0 1em 1em;
+}
+.navigation li{
+  display:inline;
+}
